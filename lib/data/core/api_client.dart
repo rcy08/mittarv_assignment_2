@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart';
 
 import 'api_constants.dart';
-import 'unathorised_exception.dart';
+import 'unauthorised_expection.dart';
 
 class ApiClient {
   final Client _client;

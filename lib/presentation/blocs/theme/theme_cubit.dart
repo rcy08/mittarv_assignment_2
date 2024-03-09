@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
-import 'package:movieapp/domain/entities/no_params.dart';
-import 'package:movieapp/domain/usecases/get_preferred_theme.dart';
-import 'package:movieapp/domain/usecases/update_theme.dart';
+import 'package:mittarv_assignment_2/domain/entities/no_params.dart';
+import 'package:mittarv_assignment_2/domain/usecases/get_preferred_theme.dart';
+import 'package:mittarv_assignment_2/domain/usecases/update_theme.dart';
 
 enum Themes { light, dark }
 

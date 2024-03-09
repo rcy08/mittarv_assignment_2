@@ -4,7 +4,7 @@ import 'package:dartz/dartz.dart';
 
 import '../../domain/entities/app_error.dart';
 import '../../domain/repositories/authentication_repository.dart';
-import '../core/unathorised_exception.dart';
+import '../core/unauthorised_expection.dart';
 import '../data_sources/authentication_local_data_source.dart';
 import '../data_sources/authentication_remote_data_source.dart';
 import '../models/request_token_model.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:movieapp/presentation/blocs/theme/theme_cubit.dart';
+import 'package:mittarv_assignment_2/presentation/blocs/theme/theme_cubit.dart';
 
 import '../../../common/constants/size_constants.dart';
 import '../../../common/constants/translation_constants.dart';
